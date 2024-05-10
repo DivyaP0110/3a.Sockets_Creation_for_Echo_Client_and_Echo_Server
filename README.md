@@ -10,9 +10,10 @@ Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
 ```
-Client:
+
 Divya P
 212223040044
+Client:
 
 import socket
 s=socket.socket()
